@@ -10,9 +10,14 @@ Social Science Dashboard Inator is a web application to fully automate data coll
 - **Standardized:** One file, standard column structure.
 - **Automated:** Easy setup.  New data arrives in your email inbox every day.  Analysis scripts re-run while you sleep.
 
+## Roadmap
+- A demonstration implementation is available at [https://jasonjones.ninja/social-science-dashboard-inator/jjjp-ai-daily-dashboard/](https://jasonjones.ninja/social-science-dashboard-inator/jjjp-ai-daily-dashboard/).
+- A preprint describing the project: [Americans' Support for AI Development - Measured Daily with Open Data and Methods](https://arxiv.org/pdf/2412.05163)
+- Before uploading code, I need to remove hard-coded values specific to my implementation.  I will do this soon.
+
 ## Usage
-There are two tracks: **Do-it-yourself (DIY) Inator** and **Fully Automated Luxury Data as a Public Good (FALDaPGoo) Intator**.
-1. **DIY:** You're looking at it.  Fork this repository and make it work for you.  Follow my development of the *JJJP AI Daily Dashboard*.  It is a bespoke version of an Inator. 
+There will be two tracks: **Do-it-yourself (DIY) Inator** and **Fully Automated Luxury Data as a Public Good (FALDaPGoo) Inator**.
+1. **DIY:** Fork this repository and make it work for you. 
 2. **FALDaPGoo:** I am slowly developing the general purpose, fully automated version.  Speedy development awaits a funder with vision.
 
 ## Follow
